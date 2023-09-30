@@ -4,9 +4,6 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-<!---
-Bekdiyordev/Bekdiyordev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- <img width="400" align="left" src="https://github-readme-stats.vercel.app/api?username=rustamsobirov&theme=github_dark&show_icons=true&locale=en" alt="rustamsobirov" />
+<img width="400" align="right" src="https://github-readme-streak-stats.herokuapp.com?user=rustamsobirov&theme=tokyonight_duo&hide_border=true" alt="rustamsobirov" />
 
-https://github.com/OWNER/REPOSITORY/actions/workflows/WORKFLOW-FILE/badge.svg
