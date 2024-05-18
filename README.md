@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bekdiyordev
 - 👀 I’m interested in Android
-- 🌱 I’m currently learning Kotlin
+- 🌱 I’m currently learning Advanced Kotlin
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
