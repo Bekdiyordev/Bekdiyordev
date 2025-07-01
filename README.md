@@ -15,7 +15,7 @@
 
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java)&nbsp;
 ![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=kotlin)&nbsp;
-![Compose](https://img.shields.io/badge/-Compose-05122A?style=flat&logo=compose)&nbsp;
+![Compose](https://img.shields.io/badge/-Compose-05122A?style=flat&logo=jetpackcompose)&nbsp;
 ![MySql](https://img.shields.io/badge/-Mysql-05122A?style=flat&logo=mysql)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
